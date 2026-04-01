@@ -1,0 +1,1 @@
+Readers-Writer Locks allow concurrent read access while maintaining exclusive write access. This is ideal for scenarios where reads are frequent and writes are infrequent.
